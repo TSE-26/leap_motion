@@ -12,7 +12,7 @@ To use the leap motion as the controller:
 
 catkin_ws --> whatever you have called your workspace
 
-**Terminal 1 Run the Panda simulation file: **
+**Terminal 1 Run the Panda simulation file:**
 ```
 cd ~/catkin_ws
 source devel/setup.bash
